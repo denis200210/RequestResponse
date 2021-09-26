@@ -9,7 +9,7 @@
 
 ### github.com
 При переходе на сайт https://github.com//, мы видим следующую картину:
-
+![github.com](github-main-loc.jpg)
 
 
 **Request Headers**  
@@ -88,6 +88,7 @@ x-xss-protection: 0
 ---
 
 ### https://www.dns-shop.ru//
+![dns-shop.ru](dns-main-loc.jpg)
 
 **Request Headers**  
 ```css
